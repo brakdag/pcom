@@ -1,0 +1,23 @@
+{
+  "name": "pcom",
+  "version": "1.0.0",
+  "description": "pcom services",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brakdag/pcom.git"
+  },
+  "keywords": [
+    "pcom",
+    "services"
+  ],
+  "author": "brakdag@gmail.com Gustavo David Ferreyra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brakdag/pcom/issues"
+  },
+  "homepage": "https://github.com/brakdag/pcom#readme"
+}
